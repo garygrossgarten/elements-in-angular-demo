@@ -16,3 +16,6 @@
 5. Define `schemas: [CUSTOM_ELEMENTS_SCHEMA]` in your `AppModule`.
 6. Use it in your template `<lib-component></lib-component>`.
 7. Profit 💆
+
+
+[ngx-build-plus](https://github.com/manfredsteyer/ngx-build-plus)
